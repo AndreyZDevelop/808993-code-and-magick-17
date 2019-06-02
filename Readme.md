@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Andrey Zaikin](https://up.htmlacademy.ru/javascript/17/user/808993).
-* Наставник: `Неизвестно`.
+* Наставник: [Fanaskov Pavel](https://up.htmlacademy.ru/javascript/17/user/615993).
 
 ---
 
